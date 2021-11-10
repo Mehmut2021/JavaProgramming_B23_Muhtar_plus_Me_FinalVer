@@ -1,0 +1,109 @@
+Day_9
+
+
+
+
+Topics 
+
+
+
+- Unit Assesment 2 Review
+
+- Wrapper Class
+			Intro
+			
+			- parseInt(),parseDouble() etc vs valueOf()
+			- Auto-Boxing vs Unboxing
+			- WrapperClassMethods
+	
+			Task 1:  
+					String str = "(((W&e**_lco73me %T%o Co!@$,,<r>e <J>>>$@av^453a";
+
+					Write a method that returns : Welcome To Core Java
+
+- ArrayList
+			Intro 
+				ArrayList methods:
+					
+					// add(Object):  adds the elements to the indexes of the arraylist
+
+					// add(index, Object): adds the element to the given index (index must be exist)
+
+					// get(index): returns the element at given index
+
+					// set(index, Object): replaces the old element at given index with new element
+
+					// indexOf(Object): returns the first matching object' index number
+
+					// size(): returns the total number of elements
+
+					// remove(index): removes the object at the given index
+
+					// remove(object): removes the first matching object
+
+				   //  Bulk Op.
+				   
+				   // removeAll() : to remove multiple elements 
+                   
+                   // retainAll() : to retain multiple elements
+   				   
+   				   // removeIf()  : removes element according to condition 
+
+				  // clear(): removes all the objects from the List
+
+				  // isEmpty(): returns true if the list contains no element
+
+
+			Task 1 : Four or less
+					
+
+					Given an ArrayList of Strings, go through and read only Strings that are 4 characters or less. 
+
+					Take those Strings and put them into a different ArrayList
+					
+					Ex:
+					
+					Input:
+					“apples”, “tree”, “loop, “cat”, “animal”, “shortcut” 
+
+					Output:
+					[ tree, loop, cat ]
+
+
+			Task 2 : Hide Passwords
+
+			        Given an array of passwords (String). Hide each password as a star (*) and show the hidden password
+					
+					Ex:
+					
+					Input:
+					{"one", "hi", "hold}
+					
+					Output:
+					[ ***, **, **** ]
+
+		    Task 3 : String numbers to sum
+					
+					Given an ArrayList of numbers in String format, add each digit of each element and store into a different ArrayList.
+					
+					Ex:
+					
+					Input:
+					“123”, “34”, “513” 
+
+					Output:
+					[ 6, 7, 9 ]
+
+			Task 4 : Target Words
+
+					Given an ArrayList of Strings and a target word (String) print how many times the target word is in the ArrayList
+					Ex: 
+					Input: 
+						”java”, ”html”, “css”, “java”, “javascript”, “selenium”
+						Target: java 
+
+						Output: 2
+					
+
+
+

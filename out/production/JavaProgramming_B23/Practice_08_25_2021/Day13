@@ -1,0 +1,73 @@
+Day13
+
+
+
+Class Tasks Review 
+
+1- cyberTask
+
+		1. create a class named Person
+		        variables: name, gender, age, dateOfBirth
+		        methods: eat(), sleep(), drink()
+
+		2. create the following sub classes of Person:
+		            1. Student
+		                    variables: name, gender, age, dateOfBirth, schoolName, studentId
+
+		                    methods: study(), attendClass()
+
+		            2. Employee
+		                    variables: name, gender, age, dateOfBirth, jobTitle, employeeID, salary
+
+		                    methods: work(), attendMeeting()
+
+		3. create the following sub classes of Employee
+		            1. Tester
+		                    variables: name, gender, age, dateOfBirth, jobTitle, employeeID, salary
+
+		                    methods: work(), attendMeeting()
+
+
+		            2. Developer
+		                    variables: name, gender, age, dateOfBirth, jobTitle, employeeID, salary
+
+		                    methods: work(), attendMeeting()
+
+		            3. Teacher
+		                    variables: name, gender, age, dateOfBirth, jobTitle, employeeID, salary
+
+		                    methods: work(), attendMeeting()
+
+
+
+
+2- shapeTask
+		
+		1. create a class called Shape
+						vairables: name, isShape(boolean), hasArea(boolean), hasPerimeter(boolean)
+
+						add a constructor that can set all the fields
+
+						methods: calcArea(), calcPerimeter(), 
+								 toString(): returns the name, area and perimeter that are returned by calcArea(), calcPerimeter()
+
+		2. create sub classes of Shape:
+						Circle
+						Rectangle
+						Square		
+
+		3. override super class' calculateArea(), calculatePerimeter() methods to the sub classes:
+
+		 		Area of the circle:    3.14 * radius * radius
+		 		Area of the rectangle:  width * length
+		 		Area of the square:    side * side
+
+		 		Perimeter of circle:   3.14 * 2 * radius
+		 		Perimeter of rectangle: (width + length) * 2
+		 		Perimeter of Square: 4 * side
+
+
+
+
+
+

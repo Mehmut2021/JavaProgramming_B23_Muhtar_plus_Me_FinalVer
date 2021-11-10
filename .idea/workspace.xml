@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01e2d777-c21f-4ebc-8028-f88b694420df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day03_Variables/AboutMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day03_Variables/AboutMe.java" afterDir="false" />
+    <list default="true" id="01e2d777-c21f-4ebc-8028-f88b694420df" name="Changes" comment="initial">
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/MaximumNumInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/MethodRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/PasswordValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/SortAssendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/SortDescendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/UniqueIntegerSumsUpToZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/UniqueIntegersSumToZoro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day57_CollectionRecap/RemovePalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day57_CollectionRecap/RemovePalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day60_Functional_Interface/BuildInFunctionalInterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day60_Functional_Interface/BuildInFunctionalInterfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day60_Functional_Interface/DataFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day60_Functional_Interface/DataFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day60_Functional_Interface/FunctionalInterfaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day60_Functional_Interface/FunctionalInterfaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day60_Functional_Interface/StreamPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day60_Functional_Interface/StreamPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day60_Functional_Interface/StringsFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day60_Functional_Interface/StringsFunction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,6 +46,88 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PasswordValidation">
+    <configuration name="MethodRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPractice.MethodRun" />
+      <module name="JavaProgramming_B23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPractice.PasswordValidation" />
+      <module name="JavaProgramming_B23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPractice.Practice" />
+      <module name="JavaProgramming_B23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPractice.Reverse" />
+      <module name="JavaProgramming_B23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueIntegerSumsUpToZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPractice.UniqueIntegerSumsUpToZero" />
+      <module name="JavaProgramming_B23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PasswordValidation" />
+        <item itemvalue="Application.UniqueIntegerSumsUpToZero" />
+        <item itemvalue="Application.MethodRun" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.Practice" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,8 +136,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632533224909</updated>
-      <workItem from="1632533230947" duration="473000" />
+      <workItem from="1632533230947" duration="5625000" />
+      <workItem from="1633011397040" duration="286000" />
+      <workItem from="1633048555459" duration="220000" />
+      <workItem from="1633048805138" duration="31000" />
+      <workItem from="1633048862474" duration="15000" />
+      <workItem from="1633561850646" duration="10230000" />
+      <workItem from="1633707472216" duration="2210000" />
+      <workItem from="1633835251497" duration="409000" />
+      <workItem from="1633835888314" duration="22920000" />
+      <workItem from="1634078647585" duration="1421000" />
+      <workItem from="1634176305748" duration="803000" />
+      <workItem from="1634185440810" duration="539000" />
+      <workItem from="1634219861963" duration="654000" />
+      <workItem from="1634252064680" duration="1921000" />
+      <workItem from="1634336778714" duration="2396000" />
+      <workItem from="1634513822995" duration="3474000" />
+      <workItem from="1634600502472" duration="3000" />
+      <workItem from="1635301698951" duration="7267000" />
+      <workItem from="1635725651175" duration="16293000" />
+      <workItem from="1635892990023" duration="7096000" />
+      <workItem from="1636048627946" duration="7184000" />
+      <workItem from="1636484782674" duration="12952000" />
+      <workItem from="1636586148052" duration="343000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1632533736211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632533736211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -47,5 +183,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
 </project>

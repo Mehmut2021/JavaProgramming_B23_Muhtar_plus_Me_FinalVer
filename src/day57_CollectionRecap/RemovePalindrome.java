@@ -1,6 +1,6 @@
 package day57_CollectionRecap;
 
-import utilities.StringUtility;
+//import utilities.StringUtility;
 
 import java.util.Arrays;
 import java.util.Iterator;
@@ -37,7 +37,7 @@ public class RemovePalindrome {
         List<String> list2 = new LinkedList<>();
         list2.addAll(Arrays.asList("Java", "Python", "Level", "Kayak", "Cybertek", "Zaman", "Ana", "Batch23"));
 
-        list2.removeIf( p -> StringUtility.isPalindrome(p));
+       // list2.removeIf( p -> StringUtility.isPalindrome(p));
 
         System.out.println(list2);
 

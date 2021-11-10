@@ -1,9 +1,6 @@
 package day60_Functional_Interface;
 
-@FunctionalInterface
-public interface DataFunction<T> { // generic type
+public interface DataFunction<T>{
 
-    T accept(T t);
-
-
+     T accept(T t);
 }

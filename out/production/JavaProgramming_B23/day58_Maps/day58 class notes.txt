@@ -1,0 +1,80 @@
+09/30/2021
+Topics: Map
+		Enum
+		String vs StringBuilder vs StringBuffer
+
+Package name: day58_Maps
+
+3 data structures:
+	1. Array
+	2. Collection
+	3. Map
+
+
+
+Map (I): Pairs of Data, accepts key & value
+	 does not support primitives
+	 dynamic sized
+	 key can not be duplicated, values can be duplicated
+	 there is NO index
+
+	 HashMap (C): order is random. accepts null
+
+	 LinkedHashMap (C): keeps the insertion order. accepts null
+
+	 TreeMap (C): sorted order, does not accept null
+
+	 HashTable (C): is synchronized ==> thread-safe , does not accept null
+
+
+    Methods:
+    	put(key, Value): inserts the given key & value into the map
+
+    	get(key): returns the value of the given key
+
+    	remove(key)
+
+    	containsKey()
+    	conatinsValue()
+    	isEmpty()
+    	equals()
+
+    	clear()
+
+    	replace(key, new value)
+
+    	----------------------------------------
+
+    	keySet(): returns all the keys from the map
+    	values(): returns all the values from the map
+    	entrySet(): returns all the entry (key & value) of map 
+
+    			getKey()
+    			getValue()
+
+
+
+List of Maps:
+		List<Map<k, v>>
+
+
+
+Enums: enumeration. a number of things
+
+	used for containing fixed set of constance
+
+	we need it if we need to take one out of small set of values
+
+
+	String browser = "Toilet Paper"
+	int numofMonth
+
+	Browsers: chrome, firefox, opera, edge, safari
+	Directions: East, West, South, North
+	Color: red, blue, yellow ....
+	NumberOfMonth: 1~12
+	Months: Jan ~ Dec
+	Days: Mon ~ Sun
+	Planet: Earth, Moon, Mars ...
+	Levels: Low, Medium, high, ChuckNorris
+

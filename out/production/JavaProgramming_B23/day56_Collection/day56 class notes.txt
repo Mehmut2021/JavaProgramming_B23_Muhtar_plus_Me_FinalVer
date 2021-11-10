@@ -1,0 +1,134 @@
+09/23/2021
+Topic: Collection Continue
+
+Package name: day56_Collection
+
+
+Collection framework: consists of multiple interfaces, each interface is implembnted by classes
+
+	Collection (I): Dynamic Sized
+					supports non-primitives ONLY
+
+			extended by List, Set, Queue
+
+
+			List (I): has index numbers, accept duplicates
+
+				ArrayList (C): Array Based Class, internally uses array
+								retrieving the data is faster ( get() )
+
+				LinkedList (C): each objects are doublly linked
+								adding & removing are faster (add() & remove())
+
+				Vector (C): is synchronized ==> thread-safe
+
+
+				Stack (C): is synchronized ==> thread-safe. LIFO (last in first out)
+
+					pop(): removes the last inserted object from the stack
+
+
+
+			Set (I): does not have index, does not accept duplicates
+
+				HashSet (C): order is random. accepts null key. faster
+
+				LinkedHashSet (C): keeps the insertion order as it is. accepts null key
+
+				TreeSet (C): keeps the sorted order. does not accept null key (nullPointerException will be given)
+
+
+
+			Queue (I): does not have index, accept duplicates. FIFO (first in first out)
+
+				poll(): removes the first object from the queue, and returns it. FIFO
+
+				PriorityQueue (C): order is random. does not have index number
+
+				ArrayDequeue (C): keeps the same insertion order. does not have index number
+
+				LinkedList (C): keeps the same insertion order, has index number
+
+
+
+synchronized: used for achieving thread safety
+			
+			advantage: thread-safe
+			disadvantage: slow
+
+			one thread at a time
+
+
+Thread: subset of a process. A sequence of execution within a process
+		
+		shares all the resources of process
+
+
+Process: execution instance of a program
+		ex: chrome, firefox, sublime, intelliJ...
+
+
+multi-thread: two or more threads are being executed within the process
+
+multi-tasking: running multiple programs concurrently
+
+concurrently vs parallely:
+	
+		concurrently: 900 * 5 = 4500 seconds
+			chrome browser (process)
+				tab1: etsy.com (300 test cases)
+				tab2: amazon.com (300 test cases)
+				tab3: ebay.com (300 test cases)
+
+				long time
+
+
+		Parallely: 300 * 5 = 1500 seconds
+			chrome Browser (process1)
+				etsy.com (300 test cases)
+
+			firefox browser (process2)
+				amazon.com (300 test cases)
+
+			safari browser (process3)
+				ebay.com (300 test cases)
+
+
+
+
+Iterable: Root Interface of Collection 
+		Classes that are implementing iterable interface gains the ability to use iterator interface
+
+		Iterator (I):
+			1. allows us to get access to each object
+
+			2. allows us to remove any objects from collection type
+
+
+			methods:
+				hasNext(): checks if there is object. returns boolean
+
+				next():
+						if hasNext() is true ==> can get access to the object
+						if hasNext() is false==> no object can be accessed
+
+
+				remove(): removes the object
+
+Task:
+	Given:
+		List<String> names = new ArrayList<>();
+        names.addAll(Arrays.asList(
+            "Ahmed", "ahmed", "aHmEd", "John", "Ercon", "Daniel", "Mustafa", "Mohammed"
+        ));
+
+        remove all the names "ahmed" without using removeIf
+
+
+
+
+
+
+
+
+

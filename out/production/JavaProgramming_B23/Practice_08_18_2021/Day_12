@@ -1,0 +1,59 @@
+DAY_12
+
+
+Topics
+
+- Unit Assesment-3
+
+- Access Modifiers
+
+- Final Keyword 
+
+- Encapsulation
+
+	Task 1: AdressTask
+
+	Create a class named Address
+			
+			Private variables:
+					street, city, state, zipCode,country
+
+			encapsulate all the fields
+
+			add a constructor that can set all the instances
+				  overload constr with no arg constr
+
+			- if the street name isEmpty or street length is bigger than 50 
+			 otherwise 
+				 ERROR : Invalid Street
+
+		    - ZipCode length should be equal 5 otherwise 
+		    	 ERROR :Invalid ZipCode
+
+			DO NOT duplicate any code fragments 
+
+
+
+- Inheritance
+
+	Task 1: appTask:
+		
+
+		Create a class called MobileApp
+			
+			instance variables:
+				name, version
+
+				add a constructor to set all the fields
+
+			instance methods:
+				useTheApp(int minutes), download()
+
+		Create the following sub classes of MobileApp:
+			1. Instagram:
+					extra methods:
+						postPhoto()
+			2. Discord:
+					extra methods:
+						chat(String name) 
+			

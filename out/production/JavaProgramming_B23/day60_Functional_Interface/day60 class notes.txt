@@ -1,0 +1,30 @@
+10/07/2021
+Last Java topics: Functional Interface & Lambda
+				  Stream: map(), filter(), collect(), distinct()
+
+
+package name: day60_Functional_Interface
+
+
+
+build in functional interfaces:
+		1. Predicate
+		2. Consumer
+		3. Function
+
+		4. BiPredicate
+		5. BiConsumer
+		6. BiFunction
+
+
+
+
+
+
+
+
+
+
+
+
+
