@@ -1,25 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01e2d777-c21f-4ebc-8028-f88b694420df" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/src/JavaPractice/Max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPractice/MaximumNumInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPractice/MethodRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPractice/PasswordValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPractice/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPractice/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPractice/SortAssendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPractice/SortDescendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPractice/UniqueIntegerSumsUpToZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPractice/UniqueIntegersSumToZoro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="01e2d777-c21f-4ebc-8028-f88b694420df" name="Changes" comment="Coding Practice Started">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Array_FindMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Array_FindMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Array_FirstUniqueElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Array_MergeTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Array_MoveAllZerosToTheEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Array_Premutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Array_RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Array_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Array_SortInAscending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Array_SortInDescending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Array_SumOfElementCloseTo0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Array_SumOfLeftEqualToRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Array_SumUpTo0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/FrequencyOfCharactersInSortMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/List_MoveAllZerosToTheEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/List_RemoveAName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/List_RemoveNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/List_RemovePalindromeStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Map_FrequencyOfCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Map_SortByValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Number_Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Number_BinraryN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Number_ConsecutiveNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Number_DivideWithoutDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Number_DivisibleBy3_5_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Number_FactorialNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Number_Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Number_LovelyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Number_MaximumPossibleValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Number_Nodes_TraverseTheTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Number_Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Number_ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Number_SumOfDigitsOfInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Number_SwapTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Numbers_CombinationOfUSCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/Set_Intersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/String_Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/String_ConvertStringToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/String_FirstUniqueCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/String_FrequencyOfCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/String_IndexOfFirstUniqueChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/String_LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/String_PassWordValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/String_PhoneNumberReformat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/String_RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/String_RemoveExtraSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/String_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/String_ReverseSecondWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/String_SortLettersAndNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/String_SumOfAllIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInterviewCodingTasksByMuhtar/String_UniqueCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/ArrayConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/ArrayMove0ToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/ArrayPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/FinRar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/NumDevide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/RemoveAName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/ReverseNegativeNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/moveZeroToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/passwordVarify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/permunation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/practiceWeek2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/removeValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPractice/sortArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day57_CollectionRecap/RemovePalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day57_CollectionRecap/RemovePalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day60_Functional_Interface/BuildInFunctionalInterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day60_Functional_Interface/BuildInFunctionalInterfaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day60_Functional_Interface/DataFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day60_Functional_Interface/DataFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day60_Functional_Interface/FunctionalInterfaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day60_Functional_Interface/FunctionalInterfaceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day60_Functional_Interface/StreamPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day60_Functional_Interface/StreamPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day60_Functional_Interface/StringsFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day60_Functional_Interface/StringsFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming_B23/JavaPractice/MaximumNumInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming_B23/JavaPractice/MaximumNumInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming_B23/JavaPractice/MethodRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming_B23/JavaPractice/MethodRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming_B23/JavaPractice/PasswordValidation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming_B23/JavaPractice/PasswordValidation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming_B23/JavaPractice/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming_B23/JavaPractice/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming_B23/JavaPractice/SortAssendingOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming_B23/JavaPractice/SortDescendingOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming_B23/JavaPractice/UniqueIntegersSumToZoro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPractice/Max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/Max.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPractice/MaximumNumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/MaximumNumInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPractice/MethodRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/MethodRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPractice/PasswordValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/PasswordValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPractice/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPractice/SortAssendingOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPractice/SortDescendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPractice/SortArrayOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPractice/UniqueIntegersSumToZoro.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +103,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ybvhc5r2m8PrzMRmSnanpA94OV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
@@ -52,13 +121,13 @@
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PasswordValidation">
-    <configuration name="MethodRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPractice.MethodRun" />
+  <component name="RunManager" selected="Application.MultiDimensionalArray2">
+    <configuration name="Array_FirstUniqueElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterviewCodingTasksByMuhtar.Array_FirstUniqueElement" />
       <module name="JavaProgramming_B23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPractice.*" />
+          <option name="PATTERN" value="JavaInterviewCodingTasksByMuhtar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPractice.PasswordValidation" />
+    <configuration name="Array_MergeTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterviewCodingTasksByMuhtar.Array_MergeTwoArrays" />
       <module name="JavaProgramming_B23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPractice.*" />
+          <option name="PATTERN" value="JavaInterviewCodingTasksByMuhtar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPractice.Practice" />
+    <configuration name="Array_MoveAllZerosToTheEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaInterviewCodingTasksByMuhtar.Array_MoveAllZerosToTheEnd" />
       <module name="JavaProgramming_B23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPractice.*" />
+          <option name="PATTERN" value="JavaInterviewCodingTasksByMuhtar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPractice.Reverse" />
+    <configuration name="ArraysUtility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day23_Arrays.ArraysUtility" />
       <module name="JavaProgramming_B23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPractice.*" />
+          <option name="PATTERN" value="day23_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueIntegerSumsUpToZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPractice.UniqueIntegerSumsUpToZero" />
+    <configuration name="MultiDimensionalArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day26_MultiDimensionalArray.MultiDimensionalArray2" />
       <module name="JavaProgramming_B23" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPractice.*" />
+          <option name="PATTERN" value="day26_MultiDimensionalArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PasswordValidation" />
-        <item itemvalue="Application.UniqueIntegerSumsUpToZero" />
-        <item itemvalue="Application.MethodRun" />
-        <item itemvalue="Application.Reverse" />
-        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.MultiDimensionalArray2" />
+        <item itemvalue="Application.ArraysUtility" />
+        <item itemvalue="Application.Array_MoveAllZerosToTheEnd" />
+        <item itemvalue="Application.Array_MergeTwoArrays" />
+        <item itemvalue="Application.Array_FirstUniqueElement" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +227,15 @@
       <workItem from="1635892990023" duration="7096000" />
       <workItem from="1636048627946" duration="7184000" />
       <workItem from="1636484782674" duration="12952000" />
-      <workItem from="1636586148052" duration="343000" />
+      <workItem from="1636586148052" duration="991000" />
+      <workItem from="1636610966959" duration="12827000" />
+      <workItem from="1637082692331" duration="9405000" />
+      <workItem from="1637602818302" duration="6000" />
+      <workItem from="1638236307653" duration="13720000" />
+      <workItem from="1638502867426" duration="6112000" />
+      <workItem from="1639349332270" duration="4340000" />
+      <workItem from="1639851856590" duration="729000" />
+      <workItem from="1640029286390" duration="890000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1632533736211</created>
@@ -167,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632533736211</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Coding Practice Started">
+      <created>1636586599238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636586599238</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,10 +267,10 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="Coding Practice Started" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coding Practice Started" />
   </component>
 </project>

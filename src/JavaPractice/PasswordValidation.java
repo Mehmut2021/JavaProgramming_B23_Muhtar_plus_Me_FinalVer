@@ -3,7 +3,8 @@ package JavaPractice;
 public class PasswordValidation {
 
     public static void main(String[] args) {
-        password("Abcd@2e");
+        boolean pass = password("Abcd@2e");
+        System.out.println("pass = " + pass);
         ValidPassword("Abcd@2e");
     }
 

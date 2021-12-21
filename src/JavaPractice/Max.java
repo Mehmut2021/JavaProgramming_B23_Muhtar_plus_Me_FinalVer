@@ -1,9 +1,8 @@
 package JavaPractice;
 
 public class Max {
-    public static int main(String[] args) {
-
-        int[] arry= {1,2,3,4,5};
+    public static void main(String[] args) {
+        int[] arry= {1,20,3,4,5};
 
         int max = arry[0];
 
@@ -13,9 +12,7 @@ public class Max {
                 max = arry[i];
             }
         }
-        return max;
-
-
+        System.out.println("max = " + max);
 
 
     }

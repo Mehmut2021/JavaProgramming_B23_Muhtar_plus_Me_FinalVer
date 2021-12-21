@@ -9,7 +9,8 @@ public class MethodRun extends Practice{
         Practice.reverse("ABC");
         //Practice.unique("AABBCDD");
 
-
+        boolean aaaaaaaaa = Practice.varifyPassword("Abc@12");
+        System.out.println("aaaaaaaaa = " + aaaaaaaaa);
 
 
     }

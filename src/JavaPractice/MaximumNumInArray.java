@@ -2,23 +2,12 @@ package JavaPractice;
 
 
 public class MaximumNumInArray {
-    public static int main(String[] args) {
+    public static void main(String[] args) {
 
-        int[] arry= {1,2,3,4,5};
-
-        int max = arry[0];
-
-
-        for (int i = 1; i < arry.length; i++) {
-            if (arry[i] > max) {
-                max = arry[i];
-            }
-        }
-        return max;
-
-
-
-
+        int[] arry = {11, 12, 3, 4, 5};
+        MaximumNumInArray m = new MaximumNumInArray();
+        System.out.println("m.maximum(arry) = " + m.maximum(arry));
+        System.out.println("m.min2(arry) = " + m.min2(arry));
     }
 
 
@@ -70,4 +59,5 @@ public class MaximumNumInArray {
         }
         return min;
     }
+
 }
